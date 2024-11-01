@@ -1,0 +1,13 @@
+{
+    "name": "tailoredmedia/tailored-lightbox",
+    "description": "Add the FancyBox3 lightbox script, so links direct to images pop up in a lightbox.",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://gitlab.com/tailored-wp-plugins/tailored-lightbox",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Tailored Media",
+            "homepage": "https://www.tailoredmedia.com.au"
+        }
+    ]
+}
